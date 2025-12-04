@@ -1,0 +1,5 @@
+{
+  "name": "ScrambleGenius",
+  "description": "A dynamic, AI-powered word scramble game where players test their vocabulary against infinite, thematically generated levels.",
+  "requestFramePermissions": []
+}
